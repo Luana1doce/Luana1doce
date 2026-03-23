@@ -1,6 +1,6 @@
 Luana Sousa
 
-(https://github-readme-stats.vercel.app/api?username=Luana1doce&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luana1doce&show_icons=true&theme=radical)
 Sobre mim
 Meu interesse em programção começou quando ao administrar e trabalhar no SEO de um site próprio, tive meu primeiro contato com HTML,CSS e JavaScript. 
 Ao aprender um pouco sobre front-end resolvi oferecer serviços e percebi que existe grande demanda na área, então comecei a criar meus primeiros sites.
