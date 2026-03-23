@@ -25,11 +25,11 @@ Atualmente estou aprimorando meu conhecimento na linguagem C e estou iniciando p
 <p>- Jogo de Cartas (Super Trunfo) em C; </p>
 
 <h2>Noções em</h2>
-- Computação em nuvem (Azure); 
-- Criação básica de máquinas virtuais;
-- Conceitos de conteinerização;
-- Noções de arquitetura serverless; 
-- Experiência com Firebase (API, autenticação e armazenamento);
+<p>- Computação em nuvem (Azure); </p>
+<p>- Criação básica de máquinas virtuais;</p>
+<p>- Conceitos de conteinerização;</p>
+<p>- Noções de arquitetura serverless; </p>
+<p>- Experiência com Firebase (API, autenticação e armazenamento);</p>
 
 <h2>Contato</h2>
 <p>- Email: lulu.lualinda123@gmail.com</p>
