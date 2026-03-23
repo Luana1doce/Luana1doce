@@ -8,6 +8,7 @@ Ao aprender um pouco sobre front-end resolvi oferecer serviços e percebi que ex
 A necessidade de entender melhor o que havia por detrás do trabalho da qual estava empenhada, me levou a entrar no curso de Análise e Desenvolvimento de Sistema, onde estou conhecendo melhor o back-end e tenho triplo interesse nessa área, em especial "Serviços em Nuvem" e "Ciber Security.</p>
 <p></p>Ja estou conhecendo melhor plataformas como AZURE e mais pra frente pretendo aprender AWS."
 Atualmente estou aprimorando meu conhecimento na linguagem C e estou iniciando python que é parecido com C.</p>
+
 <h2>Minhas metas futuras são:</h2>
 <p> Aperfeiçoar conhecimento em linguagem C.</p>
 <p>Desenvolver conhecimento mais profundo em Python.</p>
@@ -16,4 +17,20 @@ Atualmente estou aprimorando meu conhecimento na linguagem C e estou iniciando p
 <p>Buscar conhecimento e aprender boas práticas em Ciber Security.</p>
 <p>Avançar inglês de Básico-Para-Intermediário-Após-Avançado.</p>
 
+<p>📂 Projetos</p>
+<p>-     Site Vila Verde, Html, Css, JavaScript e APIs; </p>
+<p>- 🔐 Projeto de criptografia em C;  </p>
+<p>-     Provador Virtual em C;  </p>
+<p>- 🃏 Sistema de coleta de dados de avaliações em C; </p>
+<p>-    Jogo de Cartas (Super Trunfo) em C; </p>
 
+<h2>Noções em</h2>
+- Computação em nuvem (Azure); 
+- Criação básica de máquinas virtuais;
+- Conceitos de conteinerização;
+- Noções de arquitetura serverless; 
+- Experiência com Firebase (API, autenticação e armazenamento);
+
+<h2>Contato</h2>
+<p>- Email: lulu.lualinda123@gmail.com</p>
+<p>- GitHub: https://github.com/luana1doce</p>
