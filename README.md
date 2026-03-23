@@ -1,7 +1,7 @@
 Luana Sousa
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luana1doce&show_icons=true&theme=radical)
-Sobre mim
+<h1> Sobre mim</h1>
 Meu interesse em programção começou quando ao administrar e trabalhar no SEO de um site próprio, tive meu primeiro contato com HTML,CSS e JavaScript. 
 Ao aprender um pouco sobre front-end resolvi oferecer serviços e percebi que existe grande demanda na área, então comecei a criar meus primeiros sites.
 A necessidade de entender melhor o que havia por detrás do trabalho da qual estava empenhada, me levou a entrar no curso de Análise e Desenvolvimento de Sistema, onde estou conhecendo melhor o back-end e tenho triplo interesse nessa área, em especial "Serviços em Nuvem" e "Ciber Security. 
