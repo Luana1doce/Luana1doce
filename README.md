@@ -8,9 +8,9 @@ A necessidade de entender melhor o que havia por detrás do trabalho da qual est
 <p></p>Ja estou conhecendo melhor plataformas como AZURE e mais pra frente pretendo aprender AWS."
 Atualmente estou aprimorando meu conhecimento na linguagem C e estou iniciando python que é parecido com C.</p>
 <h2>Minhas metas futuras são:</h2>
-<p>Aprimorar C.</p>
-<p>Aprimorar Python.</p>
-<p>Aprimorar JavaScript.</p>
+<p> Aperfeiçoar conhecimento em linguagem C.</p>
+<p>Desenvolver conhecimento mais profundo em Python.</p>
+<p>Refinar e expandir conhecimento em JavaScript.</p>
 <p>Me aprofundar em serviços em nuvem e aprender a usar suas ferramentas.</p>
 <p>Buscar conhecimento e aprender boas práticas em Ciber Security.</p>
 <p>Avançar inglês de Básico-Para-Intermediário-Após-Avançado.</p>
