@@ -31,7 +31,7 @@ Atualmente estou aprimorando meu conhecimento na linguagem C e estou iniciando p
 <p>- Conceitos de conteinerização;</p>
 <p>- Noções de arquitetura serverless; </p>
 <p>- Experiência com Firebase (API, autenticação e armazenamento);</p>
-<p>- Noções em PowerBI em especial criação de gráficos; </p>
+<p>- Noções em PowerBI, em especial, criação de gráficos; </p>
 
 <h2>Contato</h2>
 <p>- Email: lulu.lualinda123@gmail.com</p>
