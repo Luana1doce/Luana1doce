@@ -12,7 +12,7 @@ Atualmente estou aprimorando meu conhecimento na linguagem C e estou iniciando p
 
 <h2>Minhas metas futuras são:</h2>
 <p> Aperfeiçoar conhecimento em linguagem C.</p>
-<p>Desenvolver conhecimento mais profundo em Python.</p>
+<p>Desenvolver conhecimento mais profundo em Python e redes neurais.</p>
 <p>Refinar e expandir conhecimento em JavaScript.</p>
 <p>Me aprofundar em serviços em nuvem e aprender a usar suas ferramentas.</p>
 <p>Buscar conhecimento e aprender boas práticas em Ciber Security.</p>
