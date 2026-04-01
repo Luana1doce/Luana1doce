@@ -24,6 +24,8 @@ Atualmente estou aprimorando meu conhecimento na linguagem C e estou iniciando p
 <p>- Provador Virtual em C;  </p>
 <p>- Sistema de coleta de dados de avaliações em C; </p>
 <p>- Jogo de Cartas (Super Trunfo) em C; </p>
+<p>-Neurônio filtro de spam em Python; </p>
+<p>-Neurônio inteligênte para triagem de currículos; </p>
 
 <h2>Noções em</h2>
 <p>- Computação em nuvem (Azure); </p>
