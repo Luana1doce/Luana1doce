@@ -16,7 +16,7 @@ A necessidade de entender melhor o que havia por detrás do trabalho da qual est
 <p>Refinar e expandir conhecimento em JavaScript.</p>
 <p>Me aprofundar em serviços em nuvem e aprender a usar suas ferramentas.</p>
 <p>Buscar conhecimento e aprender boas práticas em Ciber Security.</p>
-<p>Avançar inglês de Básico-Para-Intermediário-Após-Avançado.</p>
+<p>Avançar de inglês Iniciante-Para-Básico-Para-Intermediário-Após-Avançado.</p>
 
 <p>Projetos</p>
 <p>- Site Vila Verde, Html, Css, JavaScript e APIs; </p>
