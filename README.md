@@ -8,7 +8,7 @@ Ao aprender um pouco sobre front-end resolvi oferecer serviços e percebi que ex
 A necessidade de entender melhor o que havia por detrás do trabalho da qual estava empenhada, me levou a entrar no curso de Análise e Desenvolvimento de Sistema, onde estou conhecendo melhor o back-end e tenho triplo interesse nessa área, em especial "Serviços em Nuvem" e "Ciber Security.</p>
 <p>Tenho grande interesse em IA.</p>
 <p></p>Já estou conhecendo melhor plataformas como AZURE e mais pra frente pretendo aprender AWS."
-<p>Estou transitando de C para Python e me encontro em nível básico.A semelhança entre essas duas linguagens ajudou muito!</p>.
+<p>Estou transitando de C para Python.A semelhança entre essas duas linguagens ajudou muito!</p>.
 
 <h2>Minhas metas futuras são:</h2>
 <p> Aperfeiçoar conhecimento em linguagem C.</p>
@@ -25,7 +25,7 @@ A necessidade de entender melhor o que havia por detrás do trabalho da qual est
 <p>- Sistema de coleta de dados de avaliações em C; </p>
 <p>- Jogo de Cartas (Super Trunfo) em C; </p>
 <p>-Neurônio filtro de spam em Python; </p>
-<p>-Neurônio inteligênte para triagem de currículos; </p>
+<p>-Neurônio inteligênte para triagem de currículos em Python; </p>
 
 <h2>Noções em</h2>
 <p>- Computação em nuvem (Azure); </p>
