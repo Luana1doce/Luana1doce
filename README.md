@@ -5,36 +5,18 @@ Luana Sousa
 <h1> Sobre mim</h1>
 <p></p>Meu interesse em programação começou quando ao administrar e trabalhar no SEO de um site próprio, tive meu primeiro contato com HTML,CSS e JavaScript. 
 Ao aprender um pouco sobre front-end resolvi oferecer serviços e percebi que existe grande demanda na área, então comecei a criar meus primeiros sites.<br>
-A necessidade de entender melhor o que havia por detrás do trabalho da qual estava empenhada, me levou a entrar no curso de Análise e Desenvolvimento de Sistema, onde estou conhecendo melhor o back-end e tenho triplo interesse nessa área, em especial "Serviços em Nuvem" e "Ciber Security.</p>
-<p>Tenho grande interesse em IA.</p>
-<p></p>Já estou conhecendo melhor plataformas como AZURE e mais pra frente pretendo aprender AWS."
+A necessidade de entender melhor o que havia por detrás do trabalho da qual estava empenhada, me levou a entrar no curso de Análise e Desenvolvimento de Sistema, onde estou conhecendo melhor o back-end e tenho triplo interesse nessa área, em especial "Inteligência Artificial" e "Ciber Security.</p>
 <p>Estou transitando de C para Python.A semelhança entre essas duas linguagens ajudou muito!</p>.
+<p>Tenho grande interesse em dados e estou aprendendo a usar a bibliotecas Pandas e Numpy.</p>
+<p>Também pretendo aprender Scikit-Learn e TensorFlow.</p>
 
-<h2>Minhas metas futuras são:</h2>
-<p> Aperfeiçoar conhecimento em linguagem C.</p>
-<p>Desenvolver conhecimento mais profundo em Python e redes neurais.</p>
-<p>Refinar e expandir conhecimento em JavaScript.</p>
-<p>Me aprofundar em serviços em nuvem e aprender a usar suas ferramentas.</p>
-<p>Buscar conhecimento e aprender boas práticas em Ciber Security.</p>
-<p>Avançar de inglês Iniciante-Para-Básico-Para-Intermediário-Após-Avançado.</p>
+<p>Confesso que quando o assunto é desenvolvimento, fico muito empolgada! Tenho vontade de aprender, muita coisa.
+No entanto meu foco agora é aprimorar C e Python e continuar caminhando para o rumo de Dados de Machine Learning</p>
 
-<p>Projetos</p>
-<p>- Site Vila Verde, Html, Css, JavaScript e APIs; </p>
-<p>- Projeto de criptografia em C;  </p>
-<p>- Provador Virtual em C;  </p>
-<p>- Sistema de coleta de dados de avaliações em C; </p>
-<p>- Jogo de Cartas (Super Trunfo) em C; </p>
-<p>-Neurônio filtro de spam em Python; </p>
-<p>-Neurônio inteligênte para triagem de currículos em Python; </p>
+<p>Ciber Security ficará um pouco mais pra frente, porém não a perdi de vista.</p>
 
-<h2>Noções em</h2>
-<p>- Computação em nuvem (Azure); </p>
-<p>- Criação básica de máquinas virtuais;</p>
-<p>- Conceitos de conteinerização;</p>
-<p>- Noções de arquitetura serverless; </p>
-<p>- Experiência com Firebase (API, autenticação e armazenamento);</p>
-<p>- Noções em PowerBI, em especial, criação de gráficos; </p>
 
-<h2>Contato</h2>
+
+
 <p>- Email: lulu.lualinda123@gmail.com</p>
 <p>- GitHub: https://github.com/luana1doce</p>
