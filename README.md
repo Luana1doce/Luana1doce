@@ -10,7 +10,7 @@ A necessidade de entender melhor o que havia por detrás do trabalho da qual est
 <p>Tenho grande interesse em dados e estou aprendendo a usar a bibliotecas Pandas e Numpy.</p>
 <p>Também pretendo aprender Scikit-Learn e TensorFlow.</p>
 
-<p>Confesso que quando o assunto é desenvolvimento, fico muito empolgada! Tenho vontade de aprender, muita coisa.
+<p>Confesso que quando o assunto é tecnologia, fico muito empolgada! Tenho vontade de aprender, muita coisa.
 No entanto meu foco agora é aprimorar C e Python e continuar caminhando para o rumo de Dados de Machine Learning</p>
 
 <p>Ciber Security ficará um pouco mais pra frente, porém não a perdi de vista.</p>
