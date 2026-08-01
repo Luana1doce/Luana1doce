@@ -1,6 +1,6 @@
 
 <h1><strong><em>Luana Sousa</em></strong></h1>
-<img src="Img readme Luana.png">
+<img src="readme-luana.png">
 <h2><strong><em> Sobre mim</em></strong></h2>
 <p>Meu interesse em programação começou quando ao administrar e trabalhar no SEO de um site próprio, tive meu primeiro contato com HTML,CSS e JavaScript. 
 Ao aprender um pouco sobre front-end resolvi oferecer serviços e percebi que existe grande demanda na área, então comecei a criar meus primeiros sites.<br>
