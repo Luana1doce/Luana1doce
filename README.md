@@ -10,7 +10,8 @@ A necessidade de entender melhor o que havia por detrás do trabalho da qual est
 <p>Já tenho em mente diversas tecnologias dessas áreas que quero aprender!<p/>
 <p>Confesso que quando o assunto é tecnologia, fico muito empolgada! Tenho vontade de aprender, muita coisa.
 No entanto meu foco agora é aprimorar meu Python e continuar caminhando para o rumo de Dados de Machine Learning</p>
-<p>Também tenho interesse em cibersegurança ,acredito que entender um pouco dessa área me ajudará a construir códigos mais seguros!Secure Coding (programação segura)</p><hr>
+<p>Também tenho interesse em cibersegurança ,acredito que entender um pouco dessa área me ajudará a construir códigos mais seguros!
+  <b><i>Secure Coding</i></b> (programação segura.)</p><hr>
 
 <footer>
 <p><b><em>- Email: lulu.lualinda123@gmail.com</em></b></p>
