@@ -1,5 +1,24 @@
 
 <h1><strong><em>Luana Sousa</em></strong></h1>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-7B2CBF?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-7B2CBF?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-7B2CBF?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-7B2CBF?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-7B2CBF?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-7B2CBF?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-7B2CBF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analysis-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Cleaning-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-7B2CBF?style=for-the-badge"/>
+
+</p>
 <img src="readme-luana.png">
 <h2><strong><em> Sobre mim</em></strong></h2>
 <p>Meu interesse em programação começou quando ao administrar e trabalhar no SEO de um site próprio, tive meu primeiro contato com HTML,CSS e JavaScript. 
